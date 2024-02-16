@@ -1,7 +1,6 @@
 ### Ahoy 👋 👨‍💻
 
 - **I'm a** ☕ Java developer with a degree in 🎓 Computer Science
-- **Interested in** ⏳ Doctor Who, ⚡ Harry Potter, 💡 Stranger Things, 🧑‍🤝‍🧑 F.r.i.e.n.d.s
 
 **My Github profile is a bit outdated but I'm more active in** [![Linkedin](https://img.shields.io/badge/Linkedin-0966C2.svg?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kgocheva/) [![Linkedin](https://img.shields.io/badge/DEV.TO-black.svg?style=flat-square&logo=Devdotto)](https://dev.to/kriska)
  
